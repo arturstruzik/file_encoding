@@ -1,0 +1,35 @@
+E:\Dokumenty\ProjektyVisual\E_media_1\E_media_1\bin\Debug\E_media_1.exe.config
+E:\Dokumenty\ProjektyVisual\E_media_1\E_media_1\bin\Debug\E_media_1.exe
+E:\Dokumenty\ProjektyVisual\E_media_1\E_media_1\bin\Debug\E_media_1.pdb
+E:\Dokumenty\ProjektyVisual\E_media_1\E_media_1\obj\Debug\E_media_1.csprojResolveAssemblyReference.cache
+E:\Dokumenty\ProjektyVisual\E_media_1\E_media_1\obj\Debug\E_media_1.Form1.resources
+E:\Dokumenty\ProjektyVisual\E_media_1\E_media_1\obj\Debug\E_media_1.Properties.Resources.resources
+E:\Dokumenty\ProjektyVisual\E_media_1\E_media_1\obj\Debug\E_media_1.csproj.GenerateResource.Cache
+E:\Dokumenty\ProjektyVisual\E_media_1\E_media_1\obj\Debug\E_media_1.exe
+E:\Dokumenty\ProjektyVisual\E_media_1\E_media_1\obj\Debug\E_media_1.pdb
+E:\Dokumenty\ProjektyVisual\E_media_1\E_media_1\bin\Debug\InputManagement.dll
+E:\Dokumenty\ProjektyVisual\E_media_1\E_media_1\bin\Debug\Microsoft.Xna.Framework.dll
+E:\Dokumenty\ProjektyVisual\E_media_1\E_media_1\bin\Debug\Exocortex.DSP.v1.dll
+E:\Dokumenty\Inzynierka\E-media\E_media_1\E_media_1\bin\Debug\E_media_1.exe.config
+E:\Dokumenty\Inzynierka\E-media\E_media_1\E_media_1\obj\Debug\E_media_1.exe
+E:\Dokumenty\Inzynierka\E-media\E_media_1\E_media_1\obj\Debug\E_media_1.pdb
+E:\Dokumenty\Inzynierka\E-media\E_media_1\E_media_1\bin\Debug\E_media_1.exe
+E:\Dokumenty\Inzynierka\E-media\E_media_1\E_media_1\bin\Debug\E_media_1.pdb
+E:\Dokumenty\Inzynierka\E-media\E_media_1\E_media_1\bin\Debug\Exocortex.DSP.v1.dll
+E:\Dokumenty\Inzynierka\E-media\E_media_1\E_media_1\bin\Debug\InputManagement.dll
+E:\Dokumenty\Inzynierka\E-media\E_media_1\E_media_1\bin\Debug\Microsoft.Xna.Framework.dll
+E:\Dokumenty\Inzynierka\E-media\E_media_1\E_media_1\obj\Debug\E_media_1.csprojResolveAssemblyReference.cache
+E:\Dokumenty\Inzynierka\E-media\E_media_1\E_media_1\obj\Debug\E_media_1.Form1.resources
+E:\Dokumenty\Inzynierka\E-media\E_media_1\E_media_1\obj\Debug\E_media_1.Properties.Resources.resources
+E:\Dokumenty\Inzynierka\E-media\E_media_1\E_media_1\obj\Debug\E_media_1.csproj.GenerateResource.Cache
+D:\LAPTOP ARTURA 2016\DOKUMENTY\STUDIA INŻ\E-media\E_media_1\E_media_1\bin\Debug\E_media_1.exe.config
+D:\LAPTOP ARTURA 2016\DOKUMENTY\STUDIA INŻ\E-media\E_media_1\E_media_1\obj\Debug\E_media_1.exe
+D:\LAPTOP ARTURA 2016\DOKUMENTY\STUDIA INŻ\E-media\E_media_1\E_media_1\obj\Debug\E_media_1.pdb
+D:\LAPTOP ARTURA 2016\DOKUMENTY\STUDIA INŻ\E-media\E_media_1\E_media_1\bin\Debug\E_media_1.exe
+D:\LAPTOP ARTURA 2016\DOKUMENTY\STUDIA INŻ\E-media\E_media_1\E_media_1\bin\Debug\E_media_1.pdb
+D:\LAPTOP ARTURA 2016\DOKUMENTY\STUDIA INŻ\E-media\E_media_1\E_media_1\bin\Debug\Exocortex.DSP.v1.dll
+D:\LAPTOP ARTURA 2016\DOKUMENTY\STUDIA INŻ\E-media\E_media_1\E_media_1\bin\Debug\InputManagement.dll
+D:\LAPTOP ARTURA 2016\DOKUMENTY\STUDIA INŻ\E-media\E_media_1\E_media_1\obj\Debug\E_media_1.csprojResolveAssemblyReference.cache
+D:\LAPTOP ARTURA 2016\DOKUMENTY\STUDIA INŻ\E-media\E_media_1\E_media_1\obj\Debug\E_media_1.Form1.resources
+D:\LAPTOP ARTURA 2016\DOKUMENTY\STUDIA INŻ\E-media\E_media_1\E_media_1\obj\Debug\E_media_1.Properties.Resources.resources
+D:\LAPTOP ARTURA 2016\DOKUMENTY\STUDIA INŻ\E-media\E_media_1\E_media_1\obj\Debug\E_media_1.csproj.GenerateResource.Cache
